@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>https://yourdomain.com/my-first-post.html</loc>
+    
+    <lastmod>2018-08-08T02:27:00.000Z</lastmod>
+    
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://yourdomain.com/</loc>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://yourdomain.com/archives/</loc>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://yourdomain.com/categories/</loc>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://yourdomain.com/tags/</loc>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://yourdomain.com/search/</loc>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://yourdomain.com/search/1.json</loc>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://yourdomain.com/atom.xml</loc>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://yourdomain.com/sitemap.xml</loc>
+    
+  </url>
+  
+  
+</urlset>
