@@ -3,7 +3,16 @@
   
   
   <url>
-    <loc>https://yourdomain.com/my-first-post.html</loc>
+    <loc>https://liteotaku.github.io/my-first-post.html</loc>
+    
+    <lastmod>2018-08-08T02:27:00.000Z</lastmod>
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://liteotaku.github.io/hello/my-first-post.html</loc>
     
     <lastmod>2018-08-08T02:27:00.000Z</lastmod>
     
@@ -14,56 +23,56 @@
   
   
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://liteotaku.github.io/</loc>
     
   </url>
   
   
   
   <url>
-    <loc>https://yourdomain.com/archives/</loc>
+    <loc>https://liteotaku.github.io/archives/</loc>
     
   </url>
   
   
   
   <url>
-    <loc>https://yourdomain.com/categories/</loc>
+    <loc>https://liteotaku.github.io/categories/</loc>
     
   </url>
   
   
   
   <url>
-    <loc>https://yourdomain.com/tags/</loc>
+    <loc>https://liteotaku.github.io/tags/</loc>
     
   </url>
   
   
   
   <url>
-    <loc>https://yourdomain.com/search/</loc>
+    <loc>https://liteotaku.github.io/search/</loc>
     
   </url>
   
   
   
   <url>
-    <loc>https://yourdomain.com/search/1.json</loc>
+    <loc>https://liteotaku.github.io/search/1.json</loc>
     
   </url>
   
   
   
   <url>
-    <loc>https://yourdomain.com/atom.xml</loc>
+    <loc>https://liteotaku.github.io/sitemap.xml</loc>
     
   </url>
   
   
   
   <url>
-    <loc>https://yourdomain.com/sitemap.xml</loc>
+    <loc>https://liteotaku.github.io/atom.xml</loc>
     
   </url>
   
