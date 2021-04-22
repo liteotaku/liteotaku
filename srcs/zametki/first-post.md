@@ -2,6 +2,7 @@
 title: Example
 layout: post
 comment: true
+date: 2021
 categories:
   - Example
 tags:
