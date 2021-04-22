@@ -144,7 +144,7 @@ comment:
     user:
     repo:
     perPage: 10
-  disqusShortName: stackharboralynxxyz
+  disqusShortName:
 
 reward:
   enable: false
