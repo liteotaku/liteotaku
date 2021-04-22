@@ -24,8 +24,8 @@
   
   <entry>
     <title>My First Post</title>
-    <link rel="alternate" type="text/html" href="https://liteotaku.github.io/my-first-post.html" />
-    <id>https://liteotaku.github.io/my-first-post.html</id>
+    <link rel="alternate" type="text/html" href="https://liteotaku.github.io/hello/my-first-post.html" />
+    <id>https://liteotaku.github.io/hello/my-first-post.html</id>
     
     <author>
       <name>LiteOtaku</name>
@@ -53,8 +53,8 @@
   
   <entry>
     <title>My First Post</title>
-    <link rel="alternate" type="text/html" href="https://liteotaku.github.io/hello/my-first-post.html" />
-    <id>https://liteotaku.github.io/hello/my-first-post.html</id>
+    <link rel="alternate" type="text/html" href="https://liteotaku.github.io/my-first-post.html" />
+    <id>https://liteotaku.github.io/my-first-post.html</id>
     
     <author>
       <name>LiteOtaku</name>
