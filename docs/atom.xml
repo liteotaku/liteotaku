@@ -79,4 +79,37 @@
   </entry>
   
   
+  
+  <entry>
+    <title>Example</title>
+    <link rel="alternate" type="text/html" href="https://liteotaku.github.io/zametki/first-post.html" />
+    <id>https://liteotaku.github.io/zametki/first-post.html</id>
+    
+    <author>
+      <name>LiteOtaku</name>
+      <email>liteotaku@gmail.com</email>
+    </author>
+    
+    
+    
+    
+    <summary type="html">
+      &lt;p&gt;Example text preview&lt;/p&gt;
+
+    </summary>
+    
+    
+    
+    <category term="Example" label="Example" scheme="https://liteotaku.github.io/categories/Example/" />
+    
+    
+    <category term="Example" label="Example" scheme="https://liteotaku.github.io/tags/Example/" />
+    
+    <category term="Example 2" label="Example 2" scheme="https://liteotaku.github.io/tags/Example%202/" />
+    
+    <category term="Example 3" label="Example 3" scheme="https://liteotaku.github.io/tags/Example%203/" />
+    
+  </entry>
+  
+  
 </feed>
