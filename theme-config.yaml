@@ -140,9 +140,9 @@ blogroll:
 comment:
   enable: true
   issue:
-    enable: false
-    user:
-    repo:
+    enable: true
+    user: LiteOtaku
+    repo: liteotaku.github.io
     perPage: 10
   disqusShortName: liteotaku-github-io
 
