@@ -19,3 +19,22 @@ img.author-avatar {
     -ms-flex-negative: 0;
     flex-shrink: 0;
 }*/
+a {
+  cursor: url("/images/cursor/ayuda.cur"), auto;
+}
+a:active {
+  cursor: url("/images/cursor/work.cur"), alias;
+}
+p,
+input[type="text"],
+textarea {
+  cursor: url("/images/cursor/texto.cur"), auto;
+}
+body {
+  cursor: url("/images/cursor/normal.cur"), auto;
+}
+*[disabled],
+.disabled {
+  cursor: url("/images/cursor/No_Disponible.cur"), auto;
+}
+/* cursor:url(https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/No_Disponible.cur),auto; */
