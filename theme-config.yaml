@@ -144,7 +144,7 @@ comment:
     user:
     repo:
     perPage: 10
-  disqusShortName:
+  disqusShortName: liteotaku-github-io
 
 reward:
   enable: false
