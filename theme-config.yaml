@@ -140,7 +140,7 @@ blogroll:
 comment:
   enable: true
   issue:
-    enable: true
+    enable: false
     user:
     repo:
     perPage: 10
