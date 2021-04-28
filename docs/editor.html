@@ -44,7 +44,7 @@
           {
             type: 'button',
             options: {
-              el: '<b>test</b>',
+              el: saveButton(),
               command: function() {
                 alert(1);
               },
@@ -53,6 +53,14 @@
           }
         ]
       });
+      function saveButton() {
+        const button = document.createElement('button');
+
+        button.className = 'last';
+        button.innerHTML = `<i>Save post</i>`;
+
+        return button;
+      }
     </script>
   </body>
 </html>
