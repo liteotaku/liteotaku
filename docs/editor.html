@@ -78,9 +78,20 @@
         button.className = 'tui-toolbar-icons';
         //button.innerHTML = `<i>Save post</i>`;
         button.style.background = 'url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABmJLR0QA/wD/AP+gvaeTAAAAs0lEQVRIie2WPQ6DMAxGXzJwqIrerN3pORi7cqWwtjegQymyUlMZCIlU8UleIvt7cv4BKuAG9MCQIJ7ABfBEapTkU5xkVC087mMTk4ICskqrkWOdhGntpwJ9OvNuxtgtAMU1mt81F+iRC/S9BfdScVBtrHciAM6/Epds59UqPnW7KMUdp0nee0O8RtbzY9Xk/X9rdIAOUBlQn4ETPNCKAevzYJF8Mlp4f4ca9G/X1gijd/UCDStihJWAousAAAAASUVORK5CYII=)';
+        button.style.backgroundPosition = 'center';
+        button.style.backgroundRepeat = 'no-repeat';
+        button.style.backgroundSize = '60%';
 
         button.onclick = function() {
-          alert(1);
+          //alert(1);
+            global editor;
+            var elHtml = editor.getValue();
+            var link = document.createElement('a');
+            mimeType = 'text/plain';
+
+            link.setAttribute('download', 'post.md');
+            link.setAttribute('href', 'data:' + mimeType  +  ';charset=utf-8,' + encodeURIComponent(elHtml));
+            link.click();
         };
 
         return button;

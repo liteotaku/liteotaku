@@ -52,6 +52,35 @@
   
   
   <entry>
+    <title>My First Post</title>
+    <link rel="alternate" type="text/html" href="https://liteotaku.github.io/my-first-post.html" />
+    <id>https://liteotaku.github.io/my-first-post.html</id>
+    
+    <author>
+      <name>LiteOtaku</name>
+      <email>liteotaku@gmail.com</email>
+    </author>
+    
+    
+    <published>2018-08-08T02:27:00.000Z</published>
+    
+    
+    <updated>2018-08-08T02:27:00.000Z</updated>
+    
+    
+    <summary type="html">
+      &lt;p&gt;Some content...&lt;/p&gt;
+
+    </summary>
+    
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Example</title>
     <link rel="alternate" type="text/html" href="https://liteotaku.github.io/zametki/first-post.html" />
     <id>https://liteotaku.github.io/zametki/first-post.html</id>
@@ -79,35 +108,6 @@
     <category term="Example 2" label="Example 2" scheme="https://liteotaku.github.io/tags/Example%202/" />
     
     <category term="Example 3" label="Example 3" scheme="https://liteotaku.github.io/tags/Example%203/" />
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>My First Post</title>
-    <link rel="alternate" type="text/html" href="https://liteotaku.github.io/my-first-post.html" />
-    <id>https://liteotaku.github.io/my-first-post.html</id>
-    
-    <author>
-      <name>LiteOtaku</name>
-      <email>liteotaku@gmail.com</email>
-    </author>
-    
-    
-    <published>2018-08-08T02:27:00.000Z</published>
-    
-    
-    <updated>2018-08-08T02:27:00.000Z</updated>
-    
-    
-    <summary type="html">
-      &lt;p&gt;Some content...&lt;/p&gt;
-
-    </summary>
-    
-    
-    
     
   </entry>
   
