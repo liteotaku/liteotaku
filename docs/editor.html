@@ -86,7 +86,7 @@
           //alert(1);
             var elHtml = editor.getMarkdown();
             var link = document.createElement('a');
-            mimeType = 'text/plain';
+            var mimeType = 'text/plain';
 
             link.setAttribute('download', 'post.md');
             link.setAttribute('href', 'data:' + mimeType  +  ';charset=utf-8,' + encodeURIComponent(elHtml));
