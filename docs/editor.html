@@ -39,7 +39,19 @@
         el: document.querySelector('#editor'),
         previewStyle: 'vertical',
         height: '87vh',
-        initialValue: content
+        initialValue: content,
+        toolbarItems: [
+          {
+            type: 'button',
+            options: {
+              el: createLastButton(),
+              command: function() {
+                alert(1);
+              },
+              tooltip: 'Save post'
+            }
+          }
+        ]
       });
     </script>
   </body>
