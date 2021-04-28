@@ -7,15 +7,14 @@ var content = [
   'created: ' + date,
   'layout: post',
   '---',
-
   '',
   'Preview_text',
   '',
   '<!--more-->',
   '',
-  '![image](https://uicdn.toast.com/toastui/img/tui-editor-bi.png)',
+  '![image](https://via.placeholder.com/500x200)',
   '',
   '# Заголовок',
-  ''
-  'Full_text',
+  '',
+  'Full_text'
 ].join('\n');
